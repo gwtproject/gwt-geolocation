@@ -14,7 +14,7 @@ A future-proof port of the `com.google.gwt.geolocation.GeoLocation` GWT module, 
    <dependency>
        <groupId>org.gwtproject.geolocation</groupId>
        <artifactId>gwt-geolocation</artifactId>
-       <version>1.0-SNAPSHOT</version>
+       <version>HEAD-SNAPSHOT</version>
    </dependency>
    ```
 
